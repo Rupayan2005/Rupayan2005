@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Rupayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rupayan2005)](https://github.com/Rupayan2005/github-readme-stats)
+![Rupayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rupayan2005&show_icons=true&theme=radical)
 <h1 align="center">Hi 👋, I'm Rupayan</h1>
 <h3 align="center">A passionate Frontend , Backend and ML developer from India</h3>
 
