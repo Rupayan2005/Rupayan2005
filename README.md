@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupayan2005&label=Profile%20views&color=0e75b6&style=flat" alt="rupayan2005" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rupayan2005" alt="rupayan2005" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rupayan2005&theme=radical" alt="rupayan2005" /></a> </p>
 
 - 🌱 I’m currently learning **Data structure and Algorithms and ML**
 
