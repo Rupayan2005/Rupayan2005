@@ -36,3 +36,6 @@ Here are some ideas to get you started:
 [![Top cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rupayan2005&theme=2077)](https://github.com/Rupayan2005/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupayan2005&theme=radical" alt="rupayan2005" /></p>
+
+[![Top cards commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rupayan2005&theme=2077)](https://github.com/Rupayan2005/github-readme-stats)
+[![Top cards repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rupayan2005&theme=2077)](https://github.com/Rupayan2005/github-readme-stats)
