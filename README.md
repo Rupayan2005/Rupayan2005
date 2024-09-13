@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Rupayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rupayan2005&show_icons=true&theme=radical)](https://github.com/Rupayan2005/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rupayan2005&layout=donut)](https://github.com/Rupayan2005/github-readme-stats)
 <h1 align="center">Hi 👋, I'm Rupayan</h1>
 <h3 align="center">A passionate Frontend , Backend and ML developer from India</h3>
 
@@ -34,6 +35,5 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rupayan2005&show_icons=true&locale=en&layout=compact" alt="rupayan2005" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rupayan2005&show_icons=true&locale=en" alt="rupayan2005" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupayan2005&" alt="rupayan2005" /></p>
