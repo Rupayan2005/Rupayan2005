@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1000&color=00FF99&center=true&vCenter=true&width=600&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Rupayan+Auddya;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1000&color=0096FF&center=true&vCenter=true&width=600&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Rupayan+Auddya;" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&width=650&height=35&lines=A+Passionate+Web+%26+ML+Developer+%F0%9F%94%A5;Transforming+Ideas+into+Intelligent+Solutions+%F0%9F%92%A1;Crafting+Modern+Web+Experiences+%F0%9F%8C%90;Building+the+Future+with+AI+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1000&color=0059FF&center=true&vCenter=true&width=650&height=35&lines=A+Passionate+Web+%26+ML+Developer+%F0%9F%94%A5;Transforming+Ideas+into+Intelligent+Solutions+%F0%9F%92%A1;Crafting+Modern+Web+Experiences+%F0%9F%8C%90;Building+the+Future+with+AI+%F0%9F%92%BB" alt="Typing SVG" />
 </br>
 </br>
 </h3>
@@ -19,7 +19,7 @@ class Developer:
     def __init__(self):
         self.name = "Rupayan Auddya"
         self.role = "AI Enthusiast & Full-Stack Developer"
-        self.language_spoken = ["Python", "JavaScript", "C", "C++", "English", "Bengali", "Hindi", "Logic"]
+        self.language_spoken = ["English", "Bengali", "Hindi"]
         self.current_focus = "Building intelligent systems"
     
     def say_hi(self):
@@ -50,7 +50,7 @@ me.say_hi()
 <h3 align="left">🧑‍💻⚙️ Languages & Tools</h3>
 </br>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,r,js,react,nextjs,ts,vite,tailwind,html,css,nginx,nodejs,npm,pnpm,docker,fastapi,git,github,mongodb,postgres,vscode,sklearn,tensorflow,opencv" />    
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,r,js,ts,html,css,react,nextjs,vite,tailwind,express,nodejs,nginx,mongodb,postgres,mysql,sklearn,tensorflow,pytorch,opencv,npm,pnpm,docker,fastapi,postman,git,github,md,gcp,firebase,vscode,pycharm,androidstudio&perline=18" />    
 </a>
 
 ## 🎯 Current Mission
