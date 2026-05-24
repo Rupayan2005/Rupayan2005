@@ -87,20 +87,6 @@ me.say_hi()
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<a href="https://github.com/Rupayan2005/github-readme-stats">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rupayan2005&show_icons=true&theme=highcontrast&locale=en" alt="GitHub Stats" />
-</a>
-
-<!-- Top Languages -->
-<a href="https://github.com/Rupayan2005/github-readme-stats">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupayan2005&layout=compact&theme=highcontrast&locale=en" alt="Top Languages" />
-</a>
-
-<!-- Most Used Languages by Commit -->
-<a href="https://github.com/Rupayan2005/github-readme-stats">
-  <img width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rupayan2005&theme=highcontrast" alt="Most Used Languages by Commit" />
-</a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupayan2005&theme=github_dark" alt="Github Streak" /></p>
 </br>
